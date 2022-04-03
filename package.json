@@ -4,7 +4,9 @@
   "description": "This is a Coursera Course related practice",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,15 @@
   "bugs": {
     "url": "https://github.com/Kumar-laxmi/Learning-BootStrap/issues"
   },
-  "homepage": "https://github.com/Kumar-laxmi/Learning-BootStrap#readme"
+  "homepage": "https://github.com/Kumar-laxmi/Learning-BootStrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
