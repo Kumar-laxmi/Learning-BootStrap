@@ -1,0 +1,19 @@
+{
+  "name": "learning-bootstrap",
+  "version": "1.0.0",
+  "description": "This is a Coursera Course related practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumar-laxmi/Learning-BootStrap.git"
+  },
+  "author": "Kumar Laxmikant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kumar-laxmi/Learning-BootStrap/issues"
+  },
+  "homepage": "https://github.com/Kumar-laxmi/Learning-BootStrap#readme"
+}
